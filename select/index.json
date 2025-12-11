@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "us",
+  "base_artist": "yama",
+  "createdAt": "2025-12-11T01:57:23.050061Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Only Us",
+      "artist": "Miracle Of Sound",
+      "has_synced": false,
+      "path": "select/01_Only_Us_Miracle_Of_Sound.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Only Us",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/02_Only_Us_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/03_Glimpse_of_Us_Joji.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Some Of Us",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Some_Of_Us_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Before You Kill Us All",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/05_Before_You_Kill_Us_All_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Before You Kill Us All (Remastered Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/06_Before_You_Kill_Us_All_(Remastered_Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bigger Than Us",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/07_Bigger_Than_Us_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cowboys Like Us",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/08_Cowboys_Like_Us_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good As Us",
+      "artist": "Caitlyn Smith",
+      "has_synced": true,
+      "path": "select/09_Good_As_Us_Caitlyn_Smith.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Want Us",
+      "artist": "The Roads Below",
+      "has_synced": true,
+      "path": "select/10_I_Want_Us_The_Roads_Below.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let's Be Us Again",
+      "artist": "Lonestar",
+      "has_synced": true,
+      "path": "select/11_Let's_Be_Us_Again_Lonestar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Look At Us",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/12_Look_At_Us_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Look At Us (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/13_Look_At_Us_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Look At Us Now",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/14_Look_At_Us_Now_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Making Memories Of Us",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/15_Making_Memories_Of_Us_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Making Memories Of Us (Radio Single Edit)",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/16_Making_Memories_Of_Us_(Radio_Single_Edit)_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nothin Like Us",
+      "artist": "Josh Gracin",
+      "has_synced": true,
+      "path": "select/17_Nothin_Like_Us_Josh_Gracin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "us",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_us_yama.txt"
+    }
+  ]
+}
